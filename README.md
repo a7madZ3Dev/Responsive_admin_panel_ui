@@ -1,49 +1,46 @@
-# Responsive Admin Panel or Dashboard - Flutter UI
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# Responsive_admin_panel_ui 💻
 
-## [Live Preview](https://abuanwar072.github.io/Flutter-Responsive-Admin-Panel-or-Dashboard/#/)
+Responsive Admin Panel or Dashboard using Flutter. This dashboard contains almost everything that you need like a chart, table, nice small card for showing info. It works perfectly on the Web, macOS app, Tablet also on both Android and iOS phones. It's time to code once run everywhere. Yeah, Flutter web is not SEO friendly but we don't need SEO for the admin panel.
 
-**Packages we are using:**
+<div align="center">
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-- google_fonts: [link](https://pub.dev/packages/google_fonts)
-- provider: [link](https://pub.dev/packages/provider)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/a7madZ3Dev/Responsive_admin_panel_ui/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/a7madZ3Dev/Responsive_admin_panel_ui/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-**Fonts**
+</div>
 
-- Poppins [link](https://fonts.google.com/specimen/Poppins)
+<br>
 
-## [Watch it on YouTube](https://youtu.be/_uOgXpEHNbc)
+## 🎥 Promo Video
 
-On Flutter V2.* web officially supported on a stable branch. Today I share an Admin panel or you can call it dashboard UI build with flutter.  Now you can build your app dashboard using flutter. This dashboard contains almost everything that you need like a chart, table, nice small card for showing info. 
-It works perfectly on the Web, macOS app, Tablet also on both Android and iOS phones. It's time to code once run everywhere. Yeah, Flutter web is not SEO friendly but we don't need SEO for the admin panel.
+<img alt="GIF" src="preview/demo_1.gif" width= "600" /> 
 
-### Responsive Admin Panel or Dashboard Final UI
 
-![Preview](/gif.gif)
+<img alt="GIF" src="preview/demo_2.gif" width= "600" /> 
 
-![App UI](/ui.png)
 
-## Contributors ✨
+## 🔗 Design update in the following link:
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+https://www.youtube.com/watch?v=_uOgXpEHNbc
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/simon1tan"><img src="https://avatars.githubusercontent.com/u/1250858?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simon Tan</b></sub></a><br /><a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/issues?q=author%3Asimon1tan" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/gillescoolen"><img src="https://avatars.githubusercontent.com/u/31668393?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gilles</b></sub></a><br /><a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/issues?q=author%3Agillescoolen" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/RounakTadvi"><img src="https://avatars.githubusercontent.com/u/38634459?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rounak Tadvi</b></sub></a><br /><a href="#maintenance-RounakTadvi" title="Maintenance">🚧</a> <a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/commits?author=RounakTadvi" title="Code">💻</a></td>    
-  </tr>
-</table>
+<br>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+## 🧑 Author
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+#### Ahmad Alzoabi
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahmad-alzoabi-0623a8233/)
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+You can also follow my GitHub Profile to stay updated about my latest projects:
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/a7madZ3Dev)
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+Copyright (c) 2023 Ahmad Alzoabi
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/Responsive_admin_panel_ui/count.svg" alt ="Loading">
+

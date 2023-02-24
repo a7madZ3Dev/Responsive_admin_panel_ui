@@ -1,7 +1,7 @@
-cmake_minimum_required(VERSION 3.15)
-project(flutter_admin_portal LANGUAGES CXX)
+cmake_minimum_required(VERSION 3.14)
+project(admin_panel_ui LANGUAGES CXX)
 
-set(BINARY_NAME "FAP")
+set(BINARY_NAME "admin_panel_ui")
 
 cmake_policy(SET CMP0063 NEW)
 
