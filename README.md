@@ -21,10 +21,10 @@ Responsive Admin Panel or Dashboard using Flutter. This dashboard contains almos
 <img alt="GIF" src="preview/demo_2.gif" width= "600" /> 
 
 
+
 ## 🔗 Design update in the following link:
 
 https://www.youtube.com/watch?v=_uOgXpEHNbc
-
 <br>
 
 ## 🧑 Author
